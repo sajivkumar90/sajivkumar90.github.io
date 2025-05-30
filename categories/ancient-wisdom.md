@@ -1,3 +1,4 @@
+
 ---
 layout: category
 title: "Ancient Wisdom"
