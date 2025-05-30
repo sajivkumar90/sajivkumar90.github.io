@@ -23,3 +23,5 @@ navigation:
     url: /leadership/
   - title: "Sajiv Journal"
     url: /sajiv-journal/
+footer:
+  links: false
