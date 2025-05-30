@@ -3,6 +3,11 @@ layout: home
 title: false
 ---
 
+# Welcome to SajivSpeak – A New Beginning
+
+This is the home of the AMAR framework — blending Law, Gita, AI, and Self-Realization.
+
+
 
 
 **SajivSpeak** is a curated reflection space — bridging timeless Indian wisdom, real-world leadership experience, and personal inner practice.
