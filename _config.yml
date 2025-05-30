@@ -1,0 +1,23 @@
+title: "SajivSpeak"
+email: sajiv3@gmail.com
+description: >-
+  Exploring Ancient Wisdom, Leadership, and Daily Practice through lived experience.
+
+baseurl: "" 
+url: "https://blog.sajivkumar.in"
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+navigation:
+  - title: "Ancient Wisdom"
+    url: /ancient-wisdom/
+  - title: "Leadership"
+    url: /leadership/
+  - title: "Sajiv Journal"
+    url: /sajiv-journal/
