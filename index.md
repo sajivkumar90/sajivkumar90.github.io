@@ -3,7 +3,7 @@ layout: home
 title: ""
 ---
 
-# Welcome to SajivSpeak
+
 
 **SajivSpeak** is a curated reflection space — bridging timeless Indian wisdom, real-world leadership experience, and personal inner practice.
 
